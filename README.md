@@ -1,5 +1,5 @@
 # Tmall Product Image Retriever
-===============================================
+
 A simple Python script to retrieve product images from Tmall
 
 ## Usage
